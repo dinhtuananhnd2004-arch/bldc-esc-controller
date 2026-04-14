@@ -1,2 +1,1 @@
-# bldc-esc-controller
-STM32-based BLDC ESC with IR2110 driver
+Trong linh github này sẽ bao gồm phần mềm, mô phỏng Proteus và Altium
